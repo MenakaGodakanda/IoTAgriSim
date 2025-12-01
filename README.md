@@ -72,9 +72,9 @@ python3 main.py
 https://github.com/user-attachments/assets/4f559c75-f5ef-4ee3-873c-7ecd4f2c9284
 
 - **Thresholds**:
+-   humidity = 70%
 -   soil_moisture = 30%
 -   temperature = 35°C
--   humidity = 70%
 
 ## Project Structure
 ```
@@ -90,7 +90,7 @@ IoTAgriSim/
 ## Published Research
 
 This system was presented at the IFIP-UNIVEN-CSIR Interbational Conference in Cybersecurity 2025 and published as a research conference paper. Read more here: <br>
-<a href="">xxx</a> <br>
+<a href="">TBA</a> <br>
 
 ## License
 
