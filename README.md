@@ -1,6 +1,16 @@
-# Integrating IoT, LoRaWAN, Digital Twins and Blockchain for Smart Farming
+# IoT Agriculture Simulation with LoRaWAN, Digital Twin, and Blockchain
 
-## Project Description
+## Overview
+
+This project demonstrates an integrated IoT-based smart farming system that combines IoT Sensors, LoRaWAN Communication, Digital Twin, Blockchain, and Web Visualization. This is a complete simulation designed to run on Ubuntu 22.04 in a VirtualBox virtual machine without requiring any physical hardware.
+
+## Features
+
+- **Simulated IoT Sensors**: Generate realistic agricultural data (soil moisture, temperature, humidity)
+- **Mock LoRaWAN Network**: Simulates LoRaWAN communication with RSSI, SNR, spreading factors, and packet loss
+- **Digital Twin Engine**: Real-time virtual representation of farm conditions
+- **Blockchain Integration**: Immutable data storage and smart contract execution
+- **Web Dashboard**: Live visualization of sensor data and network metrics
 
 ## Getting Started
 
