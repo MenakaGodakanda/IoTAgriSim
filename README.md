@@ -71,6 +71,10 @@ python3 main.py
 
 https://github.com/user-attachments/assets/4f559c75-f5ef-4ee3-873c-7ecd4f2c9284
 
+- **Thresholds**:
+-   soil_moisture = 30%
+-   temperature = 35°C
+-   humidity = 70%
 
 ## Project Structure
 ```
