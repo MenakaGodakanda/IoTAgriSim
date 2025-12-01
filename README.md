@@ -38,21 +38,29 @@ Open a terminal and run ganache-cli
 ```
 ganache-cli
 ```
+<img width="880" height="656" alt="Screenshot 2025-12-01 182723" src="https://github.com/user-attachments/assets/cf27e505-c4a4-4441-8a31-507911db1ece" />
 
 ### Deploy Smart Contract
 Open a new terminal or command prompt (keep Ganache CLI running in the first one) and run following command:
 ```
 python3 deploy_contract.py
 ```
+<img width="1196" height="38" alt="Screenshot 2025-12-02 055249" src="https://github.com/user-attachments/assets/8b1d6be7-62e6-40ab-85a9-84a58de21a94" />
 
 ### Run the Main Script
 ```
 python3 main.py
 ```
 - Expected Output:
+<img width="1196" height="515" alt="Screenshot 2025-12-02 055249 - Copy" src="https://github.com/user-attachments/assets/ffe967ca-bc18-4b2a-a6c4-394601e1c87d" />
 
 ### Visualize the Web Dashboard
 - Open a web browser and go to http://127.0.0.1:5000 to see the visualization:
+
+- Expected Output:
+
+https://github.com/user-attachments/assets/4f559c75-f5ef-4ee3-873c-7ecd4f2c9284
+
 
 ## Project Structure
 ```
